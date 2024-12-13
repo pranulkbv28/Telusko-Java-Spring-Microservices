@@ -1,3 +1,9 @@
-Get started by customizing your environment (defined in the .idx/dev.nix file) with the tools and IDE extensions you'll need for your project!
+# Learning _Java_, _Spring_ and _Microservices_
 
-Learn more at https://developers.google.com/idx/guides/customize-idx-env
+## About
+
+- This project is about learning **Java**, **Spring** and **Microservices** in intricate detail.
+
+## Topics Covered
+
+- [Google](www.google.com)
