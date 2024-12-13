@@ -1,2 +1,6 @@
+# This is for the IDX env
 .idx
 .idx/*
+
+# Ignore all the .class files
+*.class
