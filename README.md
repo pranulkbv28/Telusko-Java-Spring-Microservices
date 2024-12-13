@@ -6,4 +6,4 @@
 
 ## Topics Covered
 
-- [Google](https://www.google.com)
+- [Google](www.google.com)
