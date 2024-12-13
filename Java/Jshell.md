@@ -5,7 +5,7 @@
 - You can define variables, classes, and methods and immediately see the output.
 - It is very helpful when learning the Java language and for rapid prototyping.
 
-# How to use JShell
+## How to use JShell
 
 1. **Open a terminal or command prompt.**
 2. **Type `jshell` and press Enter.** This will start the JShell session.
