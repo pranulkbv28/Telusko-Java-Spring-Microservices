@@ -50,3 +50,6 @@
       - Types of Interfaces
         ![Types of Interfaces](Java/assets/Types%20of%20Interfaces.png)
       - [Enum](Java/ObjectOrientedProgramming/EnumsInJava.java)
+  - [Collections](Java/Collections/)
+    - [What is Collection](Java/Collections/Collections.md)
+    - [Collections in Java](Java/Collections/CollectionsInJava.java)
