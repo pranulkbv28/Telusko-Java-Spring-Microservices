@@ -53,3 +53,6 @@
   - [Collections](Java/Collections/)
     - [What is Collection](Java/Collections/Collections.md)
     - [Collections in Java](Java/Collections/CollectionsInJava.java)
+  - [Stream](Java/Streams/)
+    - [What is Streams](Java/Streams/Streams.md)
+    - [Streams in Java](Java/Streams/StreamsInJava.java)
