@@ -56,3 +56,8 @@
   - [Stream](Java/Streams/)
     - [What is Streams](Java/Streams/Streams.md)
     - [Streams in Java](Java/Streams/StreamsInJava.java)
+  - [Local Variable Type Inference](Java/LocalVariableTypeInference/)
+    - [What is LVTI](Java/LocalVariableTypeInference/LVTI.md)
+    - [LVTI In Java](Java/LocalVariableTypeInference/LVTIInJava.java)
+  - [Sealed Classes](Java/SealedClasses/)
+    - [What are Sealed Classes in Java](Java/SealedClasses/SealedClasses.md)
