@@ -33,13 +33,6 @@ class AdvancedCalculator extends MyCalculator {
     // subclass can override the method
 }
 
-/*
- * final keyword
- * for a vairable -> it makes it a constant
- * for a method -> it makes sure it cannot be overriden
- * for a class -> it makes sure it cannot be inherited
- */
-
 public class FinalKeywordInJava {
     public static void main(String[] args) {
         final int num = 8;
@@ -49,3 +42,10 @@ public class FinalKeywordInJava {
         System.out.println(num);
     }
 }
+
+/*
+ * final keyword
+ * for a vairable -> it makes it a constant
+ * for a method -> it makes sure it cannot be overriden
+ * for a class -> it makes sure it cannot be inherited
+ */
