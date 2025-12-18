@@ -11,6 +11,11 @@
 2. **Type `jshell` and press Enter.** This will start the JShell session.
    You'll see a welcome message and a prompt like `jshell>`.
 3. **Start typing Java code snippets!** For example:
+
+```java
+System.out.print("Hello World");
+```
+
 4. **JShell will execute the code and display the result immediately.**
 5. **Experiment with variables, classes, and methods.**
 6. **Use `/help` to see a list of available JShell commands.**  
