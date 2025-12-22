@@ -8,8 +8,14 @@
 
 - You will have had to install `Java` to run the codes on your system.
 - Check your installation by running this in your `terminal`:
-  - `java --version`
-  - `javac --version`
+
+  ```bash
+  # java version
+  java --version
+
+  # java compiler version
+  javac --version
+  ```
 
 ## Topics Covered
 
