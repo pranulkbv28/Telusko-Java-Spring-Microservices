@@ -18,3 +18,7 @@ Streams offer several benefits over traditional collection processing:
 - **Concise Code**: Stream operations often result in shorter and more readable code.
 - **Efficiency**: Streams can optimize operations and potentially leverage parallel processing.
 - **Composability**: Stream operations can be chained together to create complex processing pipelines.
+
+## $Concepts$
+
+- [Streams in Java](Java/Streams/StreamsInJava.java)

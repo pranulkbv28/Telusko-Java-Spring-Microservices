@@ -21,3 +21,7 @@ var name = "Alice";
 ```
 
 - The compiler automatically infers that `name` should be of type `String` based on the assigned value `"Alice"`.
+
+### $Concepts$
+
+- [LVTI In Java](Java/LocalVariableTypeInference/LVTIInJava.java)
