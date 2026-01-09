@@ -1,4 +1,4 @@
-# $Object$ $Oriented$ $Programming$
+# Object Oriented Programming
 
 ## $What$ $is$ $OOPs$
 
