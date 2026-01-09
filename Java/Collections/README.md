@@ -1,4 +1,6 @@
-# What is Collection API?
+# Collections
+
+## What is Collection API?
 
 - Collection is a **concept** in `Java`.
 

@@ -1,4 +1,6 @@
-# What is OOPs
+# Object Oriented Programming
+
+## What is OOPs
 
 - Object-Oriented Programming (OOP) is a programming paradigm, or style of programming, that is built around the concept of **"objects"**.
 

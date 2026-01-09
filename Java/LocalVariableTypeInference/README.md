@@ -1,4 +1,6 @@
-# What is LVTI
+# Local Variable Type Inference
+
+## What is LVTI
 
 - `LVTI` stands for `Local Variable Type Inference`. It was introduced in `Java 10` as a way to simplify code by allowing the compiler to infer the type of a local variable based on the value assigned to it.
 

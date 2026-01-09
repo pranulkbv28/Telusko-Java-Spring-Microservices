@@ -1,4 +1,6 @@
-# What is Streams?
+# Streams
+
+## What is Streams?
 
 - In `Java`, a stream is a sequence of elements that can be processed in parallel or sequentially. They were introduced in Java 8 as a way to perform operations on collections of data in a more functional and declarative style.
 - Characteristics of `Streams`:
