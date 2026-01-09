@@ -17,6 +17,10 @@
   javac --version
   ```
 
+### $Note$
+
+- Please run the `javac` and the `java` commands from the root folder **(parent folder of [`Java`](./Java/) folder)** as all the other folders are packages.
+
 ## $Topics$ $Covered$
 
 - Java

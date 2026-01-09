@@ -8,3 +8,8 @@
 - Threads are used to perform multiple tasks simultaneously, improving the efficiency and responsiveness of applications.
 
 ## $Creating$ $Threads$ $in$ $Java$
+
+- When wedo not use `threads`, and we are calling on two or more methods, the methods are executed one after another, in a sequential manner. -> [Example](./WithoutThreads.java)
+- There are two main ways to create threads in Java:
+  1. By extending the `Thread` class. -> [Example](./ExtendingThread.java)
+  2. By implementing the `Runnable` interface. -> [Example](./ImplementingRunnable.java)

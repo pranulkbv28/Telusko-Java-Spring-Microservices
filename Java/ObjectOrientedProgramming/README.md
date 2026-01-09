@@ -19,7 +19,7 @@
 - [Inheritance](Java/ObjectOrientedProgramming/InheritanceInJava.java)
 - [More With Inheritance](Java/ObjectOrientedProgramming/MoreWithInheritance.java)
 - Access Specifiers
-  ![AccessSpecifiers](../assets/Access%20Specifiers.png)
+  ![AccessSpecifiers](../../assets/Access%20Specifiers.png)
 - [Polymorphism](Java/ObjectOrientedProgramming/PolymorphismInJava.java)
 - [Final Keyword](Java/ObjectOrientedProgramming/FinalKeywordInJava.java)
 - [Abstract Keyword](Java/ObjectOrientedProgramming/AbstractKeywordInJava.java)
@@ -27,5 +27,5 @@
 - [Annonymous Inner Classes](Java/ObjectOrientedProgramming/AnonymousInnerClassesInJava.java)
 - [Interface Keyword](Java/ObjectOrientedProgramming/InterfaceKeywordInJava.java)
 - Types of Interfaces
-  ![Types of Interfaces](../assets/Types%20of%20Interfaces.png)
+  ![Types of Interfaces](../../assets/Types%20of%20Interfaces.png)
 - [Enum](Java/ObjectOrientedProgramming/EnumsInJava.java)

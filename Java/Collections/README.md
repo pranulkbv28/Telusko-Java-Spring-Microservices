@@ -8,7 +8,7 @@
 
 - Collection is an **Interface** in `Java`.
 
-![Collections](../assets/Collections.png)
+![Collections](../../assets/Collections.png)
 
 ## $Concepts$
 
