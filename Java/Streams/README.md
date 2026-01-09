@@ -1,6 +1,6 @@
-# Streams
+# $$Streams$$
 
-## What is Streams?
+## $What$ $is$ $Streams?$
 
 - In `Java`, a stream is a sequence of elements that can be processed in parallel or sequentially. They were introduced in Java 8 as a way to perform operations on collections of data in a more functional and declarative style.
 - Characteristics of `Streams`:
@@ -10,7 +10,7 @@
   - **Consumable**: Once a stream has been processed by a terminal operation, it cannot be reused.
   - **Parallelism**: Streams can be easily parallelized to take advantage of multiple cores.
 
-## Why Use Streams?
+## $Why$ $Use$ $Streams?$
 
 Streams offer several benefits over traditional collection processing:
 

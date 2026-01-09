@@ -1,10 +1,10 @@
-# Learning _Java_, _Spring_ and _Microservices_
+# $Learning$ $Java,$ $Spring$ $and$ $Microservices$
 
-## About
+## $About$
 
 - This project is about learning **Java**, **Spring** and **Microservices** in intricate detail.
 
-## Prerequisites
+## $Prerequisites$
 
 - You will have had to install `Java` to run the codes on your system.
 - Check your installation by running this in your `terminal`:
@@ -17,7 +17,7 @@
   javac --version
   ```
 
-## Topics Covered
+## $Topics Covered$
 
 - Java
   - [How to run](Java/HowToRun.md)
@@ -56,7 +56,7 @@
       - Types of Interfaces
         ![Types of Interfaces](Java/assets/Types%20of%20Interfaces.png)
       - [Enum](Java/ObjectOrientedProgramming/EnumsInJava.java)
-  - [Threads]
+  - [Threads](Java/Threads/README.md)
   - [Collections](Java/Collections/)
     - [What is Collection](Java/Collections/README.md)
     - [Collections in Java](Java/Collections/CollectionsInJava.java)

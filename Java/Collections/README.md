@@ -1,10 +1,10 @@
-# Collections
+# $Collections$
 
-## What is Collection API?
+## $What$ $is$ $Collection$ $API?$
 
 - Collection is a **concept** in `Java`.
 
-## What is Collection?
+## $What$ $is$ $Collection?$
 
 - Collection is an **Interface** in `Java`.
 
