@@ -5,6 +5,10 @@ class Mobile {
     int price;
     static String name;
 
+    static {
+        name = "Default Mobile";
+    }
+
     public void show() {
         System.out.println(brand + " : " + price + " : " + name);
     }
@@ -19,19 +23,22 @@ public class OOPsBasics {
         Mobile obj1 = new Mobile();
         obj1.brand = "Apple";
         obj1.price = 100000;
-        Mobile.name = "Phone";
+        Mobile.name = "Phone"; // here, we are accessing static variable using class name rather than object
+                               // name
         obj1.show();
 
         Mobile obj2 = new Mobile();
         obj2.brand = "Samsung";
         obj2.price = 50000;
         Mobile.name = "Smart Phone";
-        obj2.show();
+        obj2.show(); // non-static method is called using object name
 
-        Mobile.show1(obj1);
+        Mobile.show1(obj1); // static method is called using class name rather than object name
         Mobile.show1(obj2);
 
         // here, we are seeing how static keyword is being utilised for variables and
         // for methods
+        // static keyword makes a variable/method belong to the class rather than to any
+        // object
     }
 }
