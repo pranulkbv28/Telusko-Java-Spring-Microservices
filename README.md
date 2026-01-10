@@ -17,9 +17,10 @@
   javac --version
   ```
 
-### $Note$
+### $Notes$
 
 - Please run the `javac` and the `java` commands from the root folder **(parent folder of [`Java`](./Java/) folder)** as all the other folders are packages.
+- A `Golden Rule in Java` is to make sure that `.java` files in the same `package` **should not** same the same `class names`.
 
 ## $Topics$ $Covered$
 
