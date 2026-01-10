@@ -8,8 +8,15 @@
 
 - Collection is an **Interface** in `Java`.
 
+## $What$ $is$ $Collections?$
+
+- Collection is an **Class** in `Java`.
+
 ![Collections](../../assets/Collections.png)
+
+## $Implementation$
 
 ## $Concepts$
 
-- [Collections in Java](Java/Collections/CollectionsInJava.java)
+- [Collections in Java](./CollectionsInJava.java)
+- [Comparison with Collections](./SortingWithTheHelpOfCollection.java)

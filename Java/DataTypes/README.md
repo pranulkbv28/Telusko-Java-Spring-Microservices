@@ -12,5 +12,5 @@
 
 ### $Concepts$
 
-- [Primitive Data Types](Java/DataTypes/PrimitiveDataTypes.java)
-- [Type Conversion](Java/DataTypes/TypeConversion.java)
+- [Primitive Data Types](./PrimitiveDataTypes.java)
+- [Type Conversion](./TypeConversion.java)

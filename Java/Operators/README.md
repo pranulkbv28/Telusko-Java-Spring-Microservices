@@ -7,6 +7,6 @@
 
 ### $Concepts$
 
-- [Arithmetic Operators](Java/Operators/ArithmeticOperators.java)
-- [Relational Operators](Java/Operators/RelationalOperators.java)
-- [Logical Operators](Java/Operators/LogicalOperators.java)
+- [Arithmetic Operators](./ArithmeticOperators.java)
+- [Relational Operators](./RelationalOperators.java)
+- [Logical Operators](./LogicalOperators.java)

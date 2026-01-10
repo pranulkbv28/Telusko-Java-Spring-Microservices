@@ -21,4 +21,4 @@ Streams offer several benefits over traditional collection processing:
 
 ## $Concepts$
 
-- [Streams in Java](Java/Streams/StreamsInJava.java)
+- [Streams in Java](./StreamsInJava.java)

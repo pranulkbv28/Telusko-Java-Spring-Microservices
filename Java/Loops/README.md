@@ -7,6 +7,6 @@
 
 ### $Concepts$
 
-- [For Loop](Java/Loops/ForLoop.java)
-- [While Loop](Java/Loops/WhileLoop.java)
-- [Do While Loop](Java/Loops/DoWhileLoop.java)
+- [For Loop](./ForLoop.java)
+- [While Loop](./WhileLoop.java)
+- [Do While Loop](./DoWhileLoop.java)

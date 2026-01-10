@@ -24,4 +24,4 @@ var name = "Alice";
 
 ### $Concepts$
 
-- [LVTI In Java](Java/LocalVariableTypeInference/LVTIInJava.java)
+- [LVTI In Java](./LVTIInJava.java)

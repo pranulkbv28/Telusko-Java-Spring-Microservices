@@ -7,5 +7,5 @@
 
 ### $Concepts$
 
-- [If, If-else and If-else-if](Java/ConditionalStatements/IfStatementsAndItsTypes.java)
-- [Switch](Java/ConditionalStatements/SwitchStatements.java)
+- [If, If-else and If-else-if](./IfStatementsAndItsTypes.java)
+- [Switch](./SwitchStatements.java)
