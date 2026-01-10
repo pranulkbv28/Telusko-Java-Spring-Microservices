@@ -39,3 +39,4 @@
   - [Local Variable Type Inference](./Java/LocalVariableTypeInference/README.md)
   - [Sealed Classes](./Java/SealedClasses/README.md)
   - [Data Carrier Classes](./Java/DataCarrierClasses/README.md)
+- [Data Structures and Algorithms](./DSA/)
