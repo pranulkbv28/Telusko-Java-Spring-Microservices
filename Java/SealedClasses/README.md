@@ -1,4 +1,4 @@
-# $$Sealed$$ $$Classes$$
+# $Sealed$ $Classes$
 
 ## $What$ $are$ $Sealed$ $Classes$
 
