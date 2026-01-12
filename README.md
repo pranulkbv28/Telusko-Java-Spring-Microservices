@@ -41,3 +41,4 @@
   - [Data Carrier Classes](./Java/DataCarrierClasses/README.md)
 - [Data Structures and Algorithms](./DSA/)
   - [Sorting Algorithms](./DSA/SortingTechniques/README.md)
+  - [Linked List](./DSA/LinkedListsInJava/README.md)
