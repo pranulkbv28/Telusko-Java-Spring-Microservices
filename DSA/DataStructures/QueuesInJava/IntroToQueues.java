@@ -106,9 +106,6 @@ public class IntroToQueues {
         Queue queue = new Queue(3);
         int arr[] = { 10, 20, 30, 40 };
         for (int elem : arr) {
-            // try {
-            // } catch (QueueFullException e) {
-            // }
 
             queue.enqueue(elem);
         }
