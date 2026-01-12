@@ -9,11 +9,12 @@
 
 - In Java, a queue can be implemented using arrays or linked lists. The `java.util.Queue` interface provides a built-in implementation of a queue.
 - The primary operations of a queue include:
-  - `add()`: Adds an element to the end of the queue.
-  - `remove()`: Removes and returns the front element of the queue.
-  - `peek()`: Returns the front element without removing it.
-  - `isEmpty()`: Checks if the queue is empty.
   - `size()`: Returns the number of elements in the queue.
+  - `isEmpty()`: Checks if the queue is empty.
+  - `enqueue()`: Adds an element to the rear of the queue.
+  - `front()`: Returns the front element without removing it.
+  - `rear()`: Returns the rear element without removing it.
+  - `dequeue()`: Removes and returns the front element of the queue.
 
 ## $Implementation$
 
