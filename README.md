@@ -42,3 +42,4 @@
 - [Data Structures and Algorithms](./DSA/)
   - [Sorting Algorithms](./DSA/SortingTechniques/README.md)
   - [Linked List](./DSA/DataStructures/LinkedListsInJava/README.md)
+  - [Stacks](./DSA/DataStructures/StacksInJava/README.md)
