@@ -36,7 +36,6 @@ class Queue {
 
     public void enqueue(int elem) throws QueueFullException {
         if (size == data.length) {
-            // throw new QueueFullException();
             doubleCapacity();
         }
         if (size == 0) {

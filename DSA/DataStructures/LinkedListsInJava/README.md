@@ -11,8 +11,8 @@
 - To implement a linked list in Java, you typically define a `Node` class to represent each element and a `LinkedList` class to manage the nodes.
 - Usually we have the `Head` node which points to the first node in the list. And all the subsequent nodes are linked via their `next` references.
 - Rather than having the values in an array, we create nodes that contain the values and references **(their addresses)** to the next node.
-- This is an example of an existing `Linked List` ![Example](../../assets/Linked%20List%20Example.png)
-- This is an example of an `existing Linked List` which has had new nodes added to the **front**, **back** and somewhere **in the middle** ![Example](../../assets/Linked%20List%20Example%202.png)
+- This is an example of an existing `Linked List` ![Example](../../../assets/Linked%20List%20Example.png)
+- This is an example of an `existing Linked List` which has had new nodes added to the **front**, **back** and somewhere **in the middle** ![Example](../../../assets/Linked%20List%20Example%202.png)
 
 ## $Implementation$
 
