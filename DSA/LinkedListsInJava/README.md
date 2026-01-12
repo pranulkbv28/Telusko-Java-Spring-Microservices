@@ -16,4 +16,4 @@
 
 ## $Implementation$
 
-- [See here](./IntroToLinkedList.java) for a basic implementation of a `Singly Linked List` in Java with methods to add, remove, and display nodes.
+- [See here](./IntroToLinkedList.java) for a basic creation and implementation of a `Singly Linked List` in Java with methods to add, remove, and display nodes.
