@@ -17,4 +17,4 @@
 
 ## $Implementation$
 
-- [See here](./IntroToStack.java) for a basic creation and implementation of a `Stack` in Java the same above methods.
+- [See here](./IntroToStack.java) for a basic creation and implementation of a `Stack` using `Arrays` in Java the same above methods.
