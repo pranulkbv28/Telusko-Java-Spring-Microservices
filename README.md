@@ -44,3 +44,4 @@
   - [Linked List](./DSA/DataStructures/LinkedListsInJava/README.md)
   - [Stacks](./DSA/DataStructures/StacksInJava/README.md)
   - [Queues](./DSA/DataStructures/QueuesInJava/README.md)
+  - [Trees](./DSA/DataStructures/TreesInJava/README.md)
