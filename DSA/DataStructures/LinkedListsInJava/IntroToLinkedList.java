@@ -1,4 +1,4 @@
-package DSA.LinkedListsInJava;
+package DSA.DataStructures.LinkedListsInJava;
 
 class Node<T> {
     T data;
