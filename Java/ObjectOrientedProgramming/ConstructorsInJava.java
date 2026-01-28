@@ -1,8 +1,6 @@
 package Java.ObjectOrientedProgramming;
 
 class Human {
-    // Suggested code may be subject to a license. Learn more:
-    // ~LicenseLog:2258859546.
     private int age;
     private String name;
 

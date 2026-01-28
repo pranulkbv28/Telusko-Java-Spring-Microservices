@@ -57,6 +57,18 @@ class F extends E {
 
 }
 
+class G implements Z {
+
+}
+
+sealed interface V permits H {
+
+}
+
+non-sealed class H implements V {
+
+}
+
 non-sealed interface W extends Y {
 
 }

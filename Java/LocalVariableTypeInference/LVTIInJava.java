@@ -3,7 +3,8 @@ package Java.LocalVariableTypeInference;
 // import java.util.ArrayList;
 
 class Student {
-
+    final String name = "Pranaav";
+    final int age = 23;
 }
 
 public class LVTIInJava {
@@ -36,6 +37,7 @@ public class LVTIInJava {
         System.out.println(b);
         System.out.println(var);
         System.out.println(nums);
-        System.out.println(obj);
+        System.out.println(obj.name);
+        System.out.println(obj.age);
     }
 }

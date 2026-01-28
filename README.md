@@ -1,10 +1,10 @@
-# Learning _Java_, _Spring_ and _Microservices_
+# $Learning$ $Java,$ $Spring$ $and$ $Microservices$
 
-## About
+## $About$
 
 - This project is about learning **Java**, **Spring** and **Microservices** in intricate detail.
 
-## Prerequisites
+## $Prerequisites$
 
 - You will have had to install `Java` to run the codes on your system.
 - Check your installation by running this in your `terminal`:

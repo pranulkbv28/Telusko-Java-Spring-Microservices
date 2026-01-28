@@ -68,7 +68,7 @@ public class CollectionsInJava {
         // {Pranaav=90, Vaisnavi=90, Tushar=100, AK=83, Viraj=60}
         System.out.println(students.get("Pranaav")); // here, you will et 90
 
-        students.put("Viraj", 80); // here, the integer field paird with Viraj will be replaced by 80
+        students.put("Viraj", 80); // here, the integer field paired with Viraj will be replaced by 80
         // each key is unique in a map
 
         System.out.println(students.keySet()); // [Pranaav, Vaisnavi, Tushar, AK, Viraj]
