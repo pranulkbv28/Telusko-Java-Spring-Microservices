@@ -1,4 +1,4 @@
-package DSA.DataStructures.StacksInJava;
+package DSA.AdvancedDataStructures.StacksInJava;
 
 class StackFullException extends Exception {
 

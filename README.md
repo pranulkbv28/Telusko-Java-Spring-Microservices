@@ -28,5 +28,11 @@
   - [Local Variable Type Inference](Java/LocalVariableTypeInference/)
   - [Sealed Classes](Java/SealedClasses/)
 
+- DSA
+
+  - [Advcanced Data Structures](./DSA/AdvancedDataStructures/)
+  - [Sorting Techniques](./DSA/SortingTechniques/)
+
 - JDBC
+
   - [What is JDBC](./JDBC/)

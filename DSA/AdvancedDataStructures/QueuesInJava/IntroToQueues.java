@@ -1,4 +1,4 @@
-package DSA.DataStructures.QueuesInJava;
+package DSA.AdvancedDataStructures.QueuesInJava;
 
 class QueueFullException extends Exception {
 

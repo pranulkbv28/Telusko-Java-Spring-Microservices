@@ -1,4 +1,4 @@
-package DSA.DataStructures.TreesInJava;
+package DSA.AdvancedDataStructures.TreesInJava;
 
 class Node {
     int data;
