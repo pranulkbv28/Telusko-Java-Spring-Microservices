@@ -14,6 +14,7 @@
 ## Topics Covered
 
 - Java
+
   - [How to run](Java/HowToRun.md)
   - [JShell](Java/Jshell.md)
   - [Get Started](Java/HelloWorld/HelloWorld.java)
@@ -61,3 +62,7 @@
     - [LVTI In Java](Java/LocalVariableTypeInference/LVTIInJava.java)
   - [Sealed Classes](Java/SealedClasses/)
     - [What are Sealed Classes in Java](Java/SealedClasses/SealedClasses.md)
+
+- JDBC
+  - [What is JDBC](./JDBC/README.md)
+  - [Intro to JDBC](./JDBC/IntroToJDBC.java)
