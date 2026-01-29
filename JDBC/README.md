@@ -65,3 +65,7 @@
     - `COMMIT`
     - `ROLLBACK`
     - `SAVEPOINT`
+
+## $References$
+
+- [JDBC Sample Project](https://github.com/pranulkbv28/Intro-to-JDBC.git)
