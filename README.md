@@ -36,3 +36,7 @@
 - JDBC
 
   - [What is JDBC](./JDBC/)
+
+- Servlets
+
+  - [What are Servlets](./Servlets/)
